@@ -1,0 +1,2 @@
+public var coinPenny; 
+S
